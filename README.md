@@ -9,7 +9,9 @@ N/A
 ## Usage
 <img width="945" alt="semantic refactoring" src="https://github.com/BrittShakier/semantic-refactoring/assets/159391747/fadea984-ff4f-49db-87ac-f754448756c9">
 
-"link"
+Link to tbe website
+https://brittshakier.github.io/semantic-refactoring/
+
 
 ## Credits
 N/A
